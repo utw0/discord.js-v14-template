@@ -56,7 +56,7 @@ const { EmbedBuilder } = require("discord.js");
 
 module.exports = {
     id: "", 
-    run: async (client, interaction, config, db) => {
+    run: async (client, interaction, config) => {
 
 
 
