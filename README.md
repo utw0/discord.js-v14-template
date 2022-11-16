@@ -1,7 +1,7 @@
 # discord.js-v14-template
 
-#Prefix
-```
+#Prefix Komut Taslak
+```javascript
 const { EmbedBuilder } = require('discord.js');
 
 module.exports = {
@@ -19,8 +19,8 @@ module.exports = {
 };
 ```
 
-#Slash
-```
+#Slash Komut Taslak
+```javascript
 const { EmbedBuilder } = require('discord.js');
 
 module.exports = {
@@ -37,8 +37,8 @@ module.exports = {
     },
 };
 ```
-#Contex
-```
+#Contex Komut Taslak
+```javascript
 const { EmbedBuilder } = require('discord.js');
 
 module.exports = {
@@ -50,8 +50,8 @@ module.exports = {
     },
 };
 ```
-#Modal
-
+#Modal Komut Taslak
+```javascript
 const { EmbedBuilder } = require("discord.js");
 
 module.exports = {
