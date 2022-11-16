@@ -1,6 +1,6 @@
 # discord.js-v14-template
 
-#Prefix Komut Taslak
+##Prefix Komut Taslak
 ```javascript
 const { EmbedBuilder } = require('discord.js');
 
@@ -19,7 +19,7 @@ module.exports = {
 };
 ```
 
-#Slash Komut Taslak
+##Slash Komut Taslak
 ```javascript
 const { EmbedBuilder } = require('discord.js');
 
@@ -37,7 +37,7 @@ module.exports = {
     },
 };
 ```
-#Contex Komut Taslak
+##Contex Komut Taslak
 ```javascript
 const { EmbedBuilder } = require('discord.js');
 
@@ -50,7 +50,7 @@ module.exports = {
     },
 };
 ```
-#Modal Komut Taslak
+##Modal Komut Taslak
 ```javascript
 const { EmbedBuilder } = require("discord.js");
 
@@ -64,6 +64,10 @@ module.exports = {
 };
 ```
 
+## Başlatma
 
+> Config.js Doldur
+> npm i 
+> node .
 
 
